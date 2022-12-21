@@ -1,8 +1,8 @@
 {
   "name": "com.floppyclub.ticker",
-  "version": "1.2.3",
+  "version": "1.0.0",
   "displayName": "Ticker Class",
-  "description": "This is an example package",
+  "description": "A class for easy, almost no effort tweening",
   "unity": "2019.1",
   "unityRelease": "0b5",
   "documentationUrl": "https://example.com/",
@@ -12,9 +12,9 @@
     
   },
   "keywords": [
-    "keyword1",
-    "keyword2",
-    "keyword3"
+    "Tween",
+    "Animation",
+    "Scheduling"
   ],
   "author": {
     "name": "Asger Strandby",
