@@ -1,6 +1,6 @@
 {
-  "name": "com.farmand.ticker",
-  "version": "1.0.1",
+  "name": "com.floppyclub.ticker",
+  "version": "1.0.2",
   "displayName": "Ticker Class",
   "description": "A class for easy, almost no effort tweening",
   "unity": "2019.1",
@@ -17,7 +17,7 @@
     "Scheduling"
   ],
   "author": {
-    "name": "Farmand",
+    "name": "Cloppy Club",
     "email": "asger@floppy.club",
     "url": "https://asger.org"
   }
