@@ -92,7 +92,7 @@ public class Ticker : MonoBehaviour
             }
 
 
-            _elapsed += Time.deltaTime;
+            _elapsed += Time.unscaledDeltaTime;
 
             if (_hasStopCheck)
             {
